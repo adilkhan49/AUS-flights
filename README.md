@@ -7,4 +7,4 @@ This notebook is an exploratory analysis of this dataset. Bokeh is used as a vis
 
 Open link below to view the notebook.
 
-http://htmlpreview.github.io/?https://github.com/adilkhan49/AUS-flights/blob/master/flights.html
+https://nbviewer.jupyter.org/github/adilkhan49/AUS-flights/blob/master/flights.ipynb
